@@ -1,0 +1,5 @@
+{
+  "name": "AI Job Application Assistant",
+  "description": "An AI-powered assistant to generate tailored cover letters, improve resumes, and answer job application questions based on your resume and a job description. Utilizes Google Search for enhanced company insights to create precise and attractive application materials.",
+  "requestFramePermissions": []
+}
