@@ -1,7 +1,7 @@
 
 import type { Question } from './types';
 
-export const GEMINI_MODEL_TEXT = 'gemini-2.5-flash-preview-04-17'; // Model for text generation
+export const GEMINI_MODEL_TEXT = 'gemini-2.5-flash-preview-05-20'; // Model for text generation
 // Use 'imagen-3.0-generate-002' for image generation if needed elsewhere.
 
 export const INITIAL_QUESTIONS: Question[] = [
